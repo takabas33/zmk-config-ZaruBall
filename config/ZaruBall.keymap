@@ -14,7 +14,8 @@
 #define LOWER    2
 #define RAISE    3
 #define ADJUST   4
-#define SCROLL   2
+#define SCROLL   7
+#define LAYER_8  8
 
 // スクロール量の設定
 
@@ -23,7 +24,7 @@
 &trackball_listener {
     input-processors = <
                          &zip_xy_transform (INPUT_TRANSFORM_XY_SWAP | INPUT_TRANSFORM_Y_INVERT | INPUT_TRANSFORM_X_INVERT)
-                         &zip_temp_layer MOUSE 500
+                         &zip_temp_layer MOUSE 1000
     >;
 
     scroller {
