@@ -205,7 +205,7 @@
 &trans          &trans  &trans           &trans             &trans         &trans            &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans          &kp MINUS       &kp LEFT_BRACE
 &kp LCTRL       &trans  &kp C_VOLUME_UP  &kp C_VOLUME_DOWN  &trans         &trans  &trans    &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &kp PLUS        &kp UP_ARROW    &kp RIGHT_BRACE
 &kp LEFT_SHIFT  &trans  &trans           &trans             &kp LS(LG(V))  &trans  &trans    &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT
-&trans          &trans                   &kp LEFT_ALT       &trans         &trans  &trans                                      &trans  &trans                                                  &trans
+&trans          &trans                   &kp LEFT_ALT       &trans         &trans  &trans                                      &trans  &trans                                                  &studio_unlock
             >;
         };
     };
