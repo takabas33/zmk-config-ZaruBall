@@ -14,8 +14,8 @@
 #define LOWER    2
 #define RAISE    3
 #define ADJUST   4
-#define SCROLL   7
-#define LAYER_8  8
+#define SCROLL   5
+#define LAYER_8  6
 
 // スクロール量の設定
 
