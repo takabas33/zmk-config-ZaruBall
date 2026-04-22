@@ -90,7 +90,7 @@
         del_long: del_long {
             compatible = "zmk,behavior-mod-morph";
             label = "DEL_LONG";
-            bindings = <&kp DELETE>, <&kp MINUS>;
+            bindings = <&kp BACKSPACE>, <&kp MINUS>;
 
             #binding-cells = <0>;
             mods = <(MOD_LSFT|MOD_RSFT)>;
